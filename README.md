@@ -1,4 +1,4 @@
-## 👋 OLá me chamo Jessé / Hello my name é Jessé
+## 👋 OLá me chamo Jessé / Hello my name is Jessé
 #### Administrador, Estudante de Programação e Entusiasta de Tecnologia // Administrator, Programming Student and Technology Enthusiast
 <div align="center">
   <a href="https://github.com/Jesselima22">
