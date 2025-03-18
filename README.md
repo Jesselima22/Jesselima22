@@ -11,7 +11,7 @@
     
   [![Hotmail](https://img.shields.io/badge/-Hotmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jsslima22@hotmail.com)
   [![Whatsapp](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5588992044759)
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/jessé-lima-112655116)
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jess%C3%A9-lima07/)
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
